@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CatalogueMovie</string>
+    <string name="title_placeholder">Title Placeholder</string>
+    <string name="rating">x.x / 10</string>
+    <string name="release">XX/XX/XXXX</string>
+    <string name="ratingLabel">Rating:</string>
+    <string name="released">Released:</string>
+    <string name="overview">Overview</string>
+    <string-array name="sort_options">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+</resources>
